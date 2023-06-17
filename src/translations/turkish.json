@@ -1,0 +1,15 @@
+{
+    "username": "Kullanıcı Adı",
+    "email": "Email Adresi",
+    "changeLang":"Dili Değiştir",
+    "logout":"Çıkış",
+    "turkish":"Türkçe",
+    "english": "İngilizce",
+    "movies":"Filmleri",
+    "synopsis":"Özet",
+    "cast":"Oyuncu Kadrosu",
+    "relatedMovies": "Benzer Filmler",
+
+
+ 
+}

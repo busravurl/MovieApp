@@ -1,0 +1,12 @@
+{
+    "username": "Username",
+    "email": "Email Adress",
+    "changeLang":"Change Language",
+    "logout":"Logout",
+    "turkish":"Turkish",
+    "english": "English",
+    "movies":"Movies",
+    "synopsis":"Synopsis",
+    "cast":"The Cast",
+    "relatedMovies": "Related Movies", 
+}
